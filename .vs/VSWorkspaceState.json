@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Debug",
+    "\\GameCpp2",
+    "\\LibSdl2",
+    "\\LibSdl2\\SDL2-2.0.8",
+    "\\LibSdl2\\SDL2-2.0.8\\docs",
+    "\\LibSdl2\\SDL2-2.0.8\\include",
+    "\\LibSdl2\\SDL2_image-2.0.3",
+    "\\LibSdl2\\SDL2_mixer-2.0.2",
+    "\\LibSdl2\\SDL2_ttf-2.0.14"
+  ],
+  "SelectedNode": "\\Debug\\GameCpp2.exe",
+  "PreviewInSolutionExplorer": false
+}
